@@ -20,6 +20,8 @@ https://nbviewer.org/github/juanmvsa/CursoPLN-UNAM/blob/main/Semana%201%20Introd
 * Diccionarios
 * Ejercicios básicos con cadenas, listas, tuplas y diccionarios
 
+https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%202%20Tipos%20de%20datos%20y%20variables.ipynb
+
 ## 3. Estructuras de control
 * if
 * if - else

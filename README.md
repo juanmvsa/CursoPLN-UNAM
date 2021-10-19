@@ -7,6 +7,8 @@ Las nueve sesiones se detallan a continuación, y se añade un link para visuali
 * ¿Qué es Python?
 * ¿Cómo se corre un programa de Python?
 * Sintaxis básica
+
+
 https://nbviewer.org/github/juanmvsa/CursoPLN-UNAM/blob/main/Semana%201%20Introduccio%CC%81n.ipynb
 
 ## 2. Tipos de datos y variables
@@ -19,6 +21,11 @@ https://nbviewer.org/github/juanmvsa/CursoPLN-UNAM/blob/main/Semana%201%20Introd
 * Ejercicios básicos con cadenas, listas, tuplas y diccionarios
 
 ## 3. Estructuras de control
+* if
+* if - else
+* for 
+* while
+
 ## 4. Entradas y salidas
 ## 5. Funciones
 ## 6.Introducción a Spacy

@@ -3,11 +3,21 @@ Material usado en el curso "Introducción al Procesamiento Natural" del Grupo de
 
 Las nueve sesiones se detallan a continuación, y se añade un link para visualizar en un navegador la notebook asociada a cada sesión.
 
-## 1. Introducción a Python
-
+## 1. Introducción a Python
+* ¿Qué es Python?
+* ¿Cómo se corre un programa de Python?
+* Sintaxis básica
 https://nbviewer.org/github/juanmvsa/CursoPLN-UNAM/blob/main/Semana%201%20Introduccio%CC%81n.ipynb
 
 ## 2. Tipos de datos y variables
+* Asignación de variables
+* Tipos de variables
+* Cadenas
+* Listas
+* Tuplas
+* Diccionarios
+* Ejercicios básicos con cadenas, listas, tuplas y diccionarios
+
 ## 3. Estructuras de control
 ## 4. Entradas y salidas
 ## 5. Funciones

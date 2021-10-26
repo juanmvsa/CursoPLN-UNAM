@@ -28,6 +28,8 @@ https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%202%20Tipos%20de%20da
 * for 
 * while
 
+https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%203%20Estructuras%20de%20control.ipynb
+
 ## 4. Entradas y salidas
 ## 5. Funciones
 ## 6.Introducción a Spacy

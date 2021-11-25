@@ -36,9 +36,14 @@ https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%203%20Estructuras%20d
 * Introducción a pandas para exploración de archivos
 * Escritura en archivos .txt
 
+https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%204%20input%20y%20output.ipynb
+https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/paises.txt
+
 ## 5. Funciones
 * Definición de `función`
 * Funciones con estructuras de control
+
+https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%205%20Funciones.ipynb
 
 ## 6.Introducción a Spacy
 ## 7. Modelos estadísticos

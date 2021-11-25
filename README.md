@@ -31,7 +31,15 @@ https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%202%20Tipos%20de%20da
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%203%20Estructuras%20de%20control.ipynb
 
 ## 4. Entradas y salidas
+* Lectura de información por teclado
+* Lectura de información en archivos .txt y .xsls
+* Introducción a pandas para exploración de archivos
+* Escritura en archivos .txt
+
 ## 5. Funciones
+* Definición de `función`
+* Funciones con estructuras de control
+
 ## 6.Introducción a Spacy
 ## 7. Modelos estadísticos
 ## 8. Encontrando patrones basados en reglas

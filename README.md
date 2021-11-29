@@ -1,7 +1,7 @@
 # Curso "Introducción al Procesamiento Natural" - UNAM
 Material usado en el curso "Introducción al Procesamiento Natural" del Grupo de Ingeniería Lingüistica de la UNAM.
 
-Las nueve sesiones se detallan a continuación, y se añade un link para visualizar en un navegador la notebook asociada a cada sesión.
+Todas las sesiones se detallan a continuación, y se añaden links para visualizar las notebooks asociadas a cada sesión.
 
 ## 1. Introducción a Python
 * ¿Qué es Python?
@@ -48,6 +48,7 @@ https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%205%20Funciones.ipynb
 ## 6. Introducción al PLN
 
 * Breve recorrido sobre el aprendizaje de máquina, las principales herramientas usadas en PLN, y los modelos de PLN que se han desarrollado actualmente
+
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Introduccio%CC%81n%20al%20Procesamiento%20del%20Lenguaje%20Natural.pdf
 
 * Breve introducción a la programación orientada a objetos en Python

@@ -45,8 +45,12 @@ https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/paises.txt
 
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%205%20Funciones.ipynb
 
-## 6.Introducción a Spacy
-## 7. Modelos estadísticos
-## 8. Encontrando patrones basados en reglas
-## 9. Cierre del curso
+## 6. Introducción al PLN
+
+https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Introduccio%CC%81n%20al%20Procesamiento%20del%20Lenguaje%20Natural.pdf
+
+## 7. Introducción a Spacy
+
+
+## 8. Modelos estadísticos
 

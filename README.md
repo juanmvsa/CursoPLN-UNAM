@@ -47,7 +47,12 @@ https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%205%20Funciones.ipynb
 
 ## 6. Introducción al PLN
 
+* Breve recorrido sobre el aprendizaje de máquina, las principales herramientas usadas en PLN, y los modelos de PLN que se han desarrollado actualmente
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Introduccio%CC%81n%20al%20Procesamiento%20del%20Lenguaje%20Natural.pdf
+
+* Breve introducción a la programación orientada a objetos en Python
+* Clases vs. objetos
+https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%206%20Programacio%CC%81n%20Orientada%20a%20Objetos.ipynb
 
 ## 7. Introducción a Spacy
 

@@ -52,6 +52,7 @@ https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Introduccio%CC%81n%20al%20Pr
 
 * Breve introducción a la programación orientada a objetos en Python
 * Clases vs. objetos
+
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%206%20Programacio%CC%81n%20Orientada%20a%20Objetos.ipynb
 
 ## 7. Introducción a Spacy

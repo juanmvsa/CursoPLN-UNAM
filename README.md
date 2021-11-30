@@ -23,18 +23,18 @@ https://nbviewer.org/github/juanmvsa/CursoPLN-UNAM/blob/main/Semana%201%20Introd
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%202%20Tipos%20de%20datos%20y%20variables.ipynb
 
 ## 3. Estructuras de control
-* if
-* if - else
-* for 
-* while
+* `if`
+* `if` - `else`
+* `for` 
+* `while`
 
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%203%20Estructuras%20de%20control.ipynb
 
 ## 4. Entradas y salidas
 * Lectura de información por teclado
-* Lectura de información en archivos .txt y .xsls
+* Lectura de información en archivos `.txt` y `.xsls`
 * Introducción a pandas para exploración de archivos
-* Escritura en archivos .txt
+* Escritura en archivos `.txt`
 
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%204%20input%20y%20output.ipynb
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/paises.txt
@@ -52,7 +52,7 @@ https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%205%20Funciones.ipynb
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Introduccio%CC%81n%20al%20Procesamiento%20del%20Lenguaje%20Natural.pdf
 
 * Breve introducción a la programación orientada a objetos en Python
-* Clases vs. objetos
+* `Clases` vs. `objetos`
 
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%206%20Programacio%CC%81n%20Orientada%20a%20Objetos.ipynb
 

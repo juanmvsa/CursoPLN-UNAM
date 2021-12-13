@@ -56,8 +56,14 @@ https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Introduccio%CC%81n%20al%20Pr
 
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%206%20Programacio%CC%81n%20Orientada%20a%20Objetos.ipynb
 
-## 7. Introducción a Spacy
+## 7. Introducción a spaCy
 
+* ¿Qué es spaCy ? 
+* Modelos de lenguajes en spaCy
+* Obtención de atributos léxicos
+https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%207%20Intro%20a%20Spacy.ipynb
 
-## 8. Modelos estadísticos
+* Introducción a los modelos estadísticos de spaCy
+https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%207%20Modelos%20Estadi%CC%81sticos.ipynb
 
+## 8. Sesión final

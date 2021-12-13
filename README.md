@@ -61,9 +61,11 @@ https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%206%20Programacio%CC%
 * ¿Qué es spaCy ? 
 * Modelos de lenguajes en spaCy
 * Obtención de atributos léxicos
+
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%207%20Intro%20a%20Spacy.ipynb
 
 * Introducción a los modelos estadísticos de spaCy
+
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%207%20Modelos%20Estadi%CC%81sticos.ipynb
 
 ## 8. Sesión final

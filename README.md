@@ -69,3 +69,7 @@ https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%207%20Intro%20a%20Spa
 https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%207%20Modelos%20Estadi%CC%81sticos.ipynb
 
 ## 8. Sesión final
+
+Los datos usados en esta notebook se pueden descargar del siguiente link: https://registry.opendata.aws/amazon-reviews-ml/
+
+https://github.com/juanmvsa/CursoPLN-UNAM/blob/main/Semana%208%20Proyecto%20de%20revisio%CC%81n.ipynb

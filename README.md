@@ -1,4 +1,4 @@
-# Curso "Introducción al Procesamiento Natural" - UNAM
+# Curso "Introducción al Procesamiento Natural con Python" - Grupo de Ingeniería Linguística, UNAM
 Material usado en el curso "Introducción al Procesamiento Natural" del Grupo de Ingeniería Lingüistica de la UNAM.
 
 Todas las sesiones se detallan a continuación, y se añaden links para visualizar las notebooks asociadas a cada sesión.
